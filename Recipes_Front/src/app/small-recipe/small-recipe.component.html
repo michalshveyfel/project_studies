@@ -1,0 +1,22 @@
+
+<div class="col mb-5  portfolio-item" style="display: inline;margin: 10px;z-index: 100;">
+    <div class="card h-100 portfolio-link" data-bs-toggle="modal">
+        <div class="portfolio-hover">
+            <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+        </div>
+        <img class="card-img-top" [src]="myRecipe.Image" alt="..." />
+        <div class="card-body p-4">
+            <div class="text-center">
+                <h5 class="fw-bolder">{{myRecipe.Name}}</h5>
+                <div>level: {{myRecipe.Level}}</div>
+                <div>time: {{myRecipe.MinutesToMake|time}}</div>
+            </div>
+        </div>
+        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+            <div class="text-center">
+                <input *ngIf="IsUserEnter()" class="btn btn-outline-dark mt-auto" value="Show Detailes" (click)="detailed(myRecipe)" />
+                <input *ngIf="!IsUserEnter()" class="btn btn-light mt-auto disabled" value="Show Detailes" [disabled]="true" title="to show details you need to login"/>
+            </div>
+        </div>
+    </div>
+</div>

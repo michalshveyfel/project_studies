@@ -1,0 +1,51 @@
+
+<section id="contact">
+    <div class="container">
+        <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Register Me</h2>
+        <div class="divider-custom">
+            <div class="divider-custom-line"></div>
+            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+            <div class="divider-custom-line"></div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xl-7">
+               
+                <form id="contactForm"  #form [formGroup]="registerForm">
+                    <!-- Name input-->
+                    <div class="form-floating mb-3">                        
+                        <input [(ngModel)]="newUser.Name" class="form-control" formControlName="name" name="Name" placeholder="Enter your name..."/>
+                        <label for="Id">name:</label>
+                        <div style="color: red;" *ngIf="registerForm.controls['name'].errors&&registerForm.controls['name'].touched">שם הוא שדה חובה</div>                    
+                    </div>
+                        <!-- Id input-->
+                    <div class="form-floating mb-3">                        
+                        <input [(ngModel)]="newUser.Id" class="form-control" formControlName="id" name="Id" placeholder="Enter your tz..."/>
+                        <label for="Id">id:</label>
+                        <div style="color: red;" *ngIf="registerForm.controls['id'].errors?.required&&registerForm.controls['id'].touched">קוד הוא שדה חובה</div>
+                        <div style="color: red;" *ngIf="registerForm.controls['id'].errors&&(!registerForm.controls['id'].errors?.required)&&registerForm.controls['id'].touched">נא הקש ת.ז. בן9 ספרןת</div>
+                    </div>
+                    <!-- Email address input-->                    
+                    <div class="form-floating mb-3">                        
+                        <input class="form-control" id="email" type="email" placeholder="name@example.com" [(ngModel)]="newUser.Mail" formControlName="mail" name="Mail"/>
+                        <label for="Mail">mail:</label>
+                        <div style="color: red;" *ngIf="registerForm.controls['mail'].errors&&registerForm.controls['mail'].touched">מייל לא תקין</div>
+                    </div>
+                    <!-- Addres input-->                    
+                    <div class="form-floating mb-3">
+                        <input class="form-control" id="adress" [(ngModel)]="newUser.Adress" formControlName="adress" name="Adress" />
+                        <label for="Adress">adress:</label>
+                        <div style="color: red;" *ngIf="registerForm.controls['adress'].errors&&registerForm.controls['adress'].touched">כתובת היא שדה חובה</div>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input class="form-control" type="password" formControlName="password" id="password" [(ngModel)]="newUser.Password" name="Password"/>
+                        <label for="Password">password:</label>
+                        <div style="color: red;" *ngIf="(registerForm.controls['password'].errors?.required)&&registerForm.controls['password'].touched">סיסמא הוא שדה חובה</div>
+                        <div style="color: red;" *ngIf="registerForm.controls['password'].errors&&(!registerForm.controls['password'].errors?.required)&&registerForm.controls['password'].touched">סיסמא חיבת להכיל לפחות 8 תוים</div>
+                    </div>
+                    
+                    <button class="btn btn-primary btn-xl" name="register" (click)="register()" id="submitButton" [disabled]="!registerForm.valid" type="submit">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

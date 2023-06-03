@@ -1,0 +1,58 @@
+<div id="addr">
+    <div class="l">
+        <label>Code: </label>
+        <p>{{newRecipe.Code}}</p>
+    </div>
+    <div class="l">
+        <label>Name: </label>
+        <input name="Name" [(ngModel)]="newRecipe.Name" />
+    </div>
+    <div class="l">
+        <label>CategoryCode: </label>
+        <select [(ngModel)]="newRecipe.CategoryCode">
+            <option *ngFor="let item of arrCategories" [value]="item.Code">{{item.Name}}</option>
+        </select>
+    </div>
+    <div class="l">
+        <label>MinutesToMake: </label>
+        <input name="MinutesToMake" [(ngModel)]="newRecipe.MinutesToMake" type="number" />
+    </div>
+    <div class="l">
+        <label>Level: </label>
+        <input name="Level" [(ngModel)]="newRecipe.Level" min="1" max="5" type="number" />
+    </div>
+    <div class="l">
+        <label>AddedDate: </label>
+        <input name="AddedDate" [(ngModel)]="newRecipe.AddedDate" type="date" />
+    </div>
+    <div class="l">
+        <div *ngFor="let x of newRecipe.Ingreadients; let i=index;trackBy:trackByIdx">
+            <label>Ingreadient: </label>
+            <input name="Ingreadient" (change)="addString(newRecipe.Ingreadients)"
+                [(ngModel)]="newRecipe.Ingreadients[i]" autofocus />
+        </div>
+    </div>
+    <div class="l">
+        <div *ngFor="let x of newRecipe.Introductions; let i=index;trackBy:trackByIdx">
+            <label>Introductions: </label>
+            <input name="Introduction" (change)="addString(newRecipe.Introductions)"
+                [(ngModel)]="newRecipe.Introductions[i]" autofocus />
+        </div>
+    </div>
+    <div class="l">
+        <label>UserCode: </label>
+        <p>{{newRecipe.UserCode}}</p>
+    </div>
+    <div class="l">
+        <label>Image: </label>
+        <select [(ngModel)]="newRecipe.Image">
+            <option *ngFor="let item of images;let i=index" [value]="images[i]">{{item}}</option>
+        </select>
+        <img [src]="newRecipe.Image" height="60px" />
+    </div>
+    <div>
+        <input name="add" type="button" (click)="save()" value="save" />
+    </div>
+    <img src="../../assets/icon-made.jpg" alt="made" style="right: 0;" width="50">
+</div>
+

@@ -1,0 +1,52 @@
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+        <a *ngIf="IsUserEnter()" (click)="clearUser()" style="color: seashell;"
+            class="btn btn-primary btn-md navbar-brand" routerLink="/login">Logout</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
+            aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars ms-1"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav  ms-auto py-4 py-lg-0">
+                <li class="nav-item"><a class="nav-link" routerLink="/all-recipes">All Recipe</a></li>
+                <li class="nav-item"><a class="nav-link" routerLink="/register">Register</a></li>
+                <li class="nav-item"><a class="nav-link" routerLink="/login">Login</a></li>
+                <li class="nav-item" *ngIf="IsUserEnter()"><a class="nav-link" routerLink="/add">Add Recipe</a></li>
+                <li class="nav-item"><a class="nav-link" routerLink="/filter">Filter</a></li>
+              
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<header class="masthead">
+    <div class="container">
+        <div class="masthead-heading">netמתכון</div>
+        <!--  text-uppercase -->
+        <div class="masthead-subheading">you will be a<img src="../assets/be-chef.png" height="150px" /></div>
+        <a class="btn btn-primary btn-xl" routerLink="/login">Login</a>
+    </div>
+</header>
+<router-outlet id="a"></router-outlet>
+
+
+<footer class="footer py-4">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4 text-lg-start">Copyright &copy; MatconNet 2021
+                <img src="../assets/icon-knife-spoon-fork.jpg" height="100px" />
+            </div>
+            <div class="col-lg-4 my-3 my-lg-0">
+                <a class="btn btn-dark btn-social mx-2" routerLink="/filter"><i class="fab fa-twitter"></i></a>
+                <a class="btn btn-dark btn-social mx-2" routerLink="/filter"><i class="fab fa-facebook-f"></i></a>
+                <a class="btn btn-dark btn-social mx-2" routerLink="/filter"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+            <div class="col-lg-4 text-lg-end">
+                <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
+                <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+            </div>
+        </div>
+    </div>
+</footer>
+

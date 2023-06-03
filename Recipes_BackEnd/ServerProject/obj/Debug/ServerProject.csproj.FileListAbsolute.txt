@@ -1,0 +1,210 @@
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\ServerProject.dll.config
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\ServerProject.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\ServerProject.pdb
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\csc.exe
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\csc.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\csc.rsp
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\csi.exe
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\csi.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\csi.rsp
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.AppContext.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Collections.Immutable.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Console.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Globalization.Calendars.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.IO.Compression.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.IO.FileSystem.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Net.Http.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Net.Sockets.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Reflection.Metadata.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.ValueTuple.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Xml.XPath.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\vbc.exe
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\vbc.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\vbc.rsp
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\VBCSCompiler.exe
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\roslyn\VBCSCompiler.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\Newtonsoft.Json.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Net.Http.Formatting.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Http.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Http.WebHost.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\Newtonsoft.Json.xml
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Net.Http.Formatting.xml
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Http.xml
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Http.WebHost.xml
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.AssemblyReference.cache
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CoreCompileInputs.cache
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CopyComplete
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\obj\Debug\ServerProject.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\obj\Debug\ServerProject.pdb
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Cors.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Http.Cors.dll
+Y:\שנת פב\2\שנידר רחל\angular\project\ServerProject\ServerProject\bin\System.Web.Http.Cors.xml
+D:\project\ServerProject\ServerProject\bin\ServerProject.dll.config
+D:\project\ServerProject\ServerProject\bin\ServerProject.dll
+D:\project\ServerProject\ServerProject\bin\ServerProject.pdb
+D:\project\ServerProject\ServerProject\bin\roslyn\csc.exe
+D:\project\ServerProject\ServerProject\bin\roslyn\csc.exe.config
+D:\project\ServerProject\ServerProject\bin\roslyn\csc.rsp
+D:\project\ServerProject\ServerProject\bin\roslyn\csi.exe
+D:\project\ServerProject\ServerProject\bin\roslyn\csi.exe.config
+D:\project\ServerProject\ServerProject\bin\roslyn\csi.rsp
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\ServerProject\ServerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.AppContext.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Collections.Immutable.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Console.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.IO.Compression.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.IO.FileSystem.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Net.Http.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Net.Sockets.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.ValueTuple.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Xml.XPath.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\project\ServerProject\ServerProject\bin\roslyn\vbc.exe
+D:\project\ServerProject\ServerProject\bin\roslyn\vbc.exe.config
+D:\project\ServerProject\ServerProject\bin\roslyn\vbc.rsp
+D:\project\ServerProject\ServerProject\bin\roslyn\VBCSCompiler.exe
+D:\project\ServerProject\ServerProject\bin\roslyn\VBCSCompiler.exe.config
+D:\project\ServerProject\ServerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\ServerProject\ServerProject\bin\Newtonsoft.Json.dll
+D:\project\ServerProject\ServerProject\bin\System.Net.Http.Formatting.dll
+D:\project\ServerProject\ServerProject\bin\System.Web.Cors.dll
+D:\project\ServerProject\ServerProject\bin\System.Web.Http.Cors.dll
+D:\project\ServerProject\ServerProject\bin\System.Web.Http.dll
+D:\project\ServerProject\ServerProject\bin\System.Web.Http.WebHost.dll
+D:\project\ServerProject\ServerProject\bin\System.Web.Http.Cors.xml
+D:\project\ServerProject\ServerProject\bin\Newtonsoft.Json.xml
+D:\project\ServerProject\ServerProject\bin\System.Net.Http.Formatting.xml
+D:\project\ServerProject\ServerProject\bin\System.Web.Http.xml
+D:\project\ServerProject\ServerProject\bin\System.Web.Http.WebHost.xml
+D:\project\ServerProject\ServerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.AssemblyReference.cache
+D:\project\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CoreCompileInputs.cache
+D:\project\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CopyComplete
+D:\project\ServerProject\ServerProject\obj\Debug\ServerProject.dll
+D:\project\ServerProject\ServerProject\obj\Debug\ServerProject.pdb
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\ServerProject.dll.config
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\ServerProject.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\ServerProject.pdb
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\csc.exe
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\csc.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\csc.rsp
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\csi.exe
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\csi.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\csi.rsp
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.AppContext.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Collections.Immutable.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Console.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Globalization.Calendars.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.IO.Compression.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.IO.FileSystem.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Net.Http.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Net.Sockets.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Reflection.Metadata.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.ValueTuple.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Xml.XPath.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\vbc.exe
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\vbc.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\vbc.rsp
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\VBCSCompiler.exe
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\roslyn\VBCSCompiler.exe.config
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\Newtonsoft.Json.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Net.Http.Formatting.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Cors.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Http.Cors.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Http.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Http.WebHost.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Http.Cors.xml
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\Newtonsoft.Json.xml
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Net.Http.Formatting.xml
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Http.xml
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\System.Web.Http.WebHost.xml
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.AssemblyReference.cache
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CoreCompileInputs.cache
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\obj\Debug\ServerProject.csproj.CopyComplete
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\obj\Debug\ServerProject.dll
+Y:\שנת פב\2\שנידר רחל\angular\פרויקט מעודכן\ServerProject\ServerProject\obj\Debug\ServerProject.pdb

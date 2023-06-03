@@ -1,0 +1,31 @@
+<div class="sidebar">
+    <div>
+        <label>minute to make:</label>
+        <input [(ngModel)]="timeFilter" type="number" min="1" />
+    </div>
+
+    <div>
+        <label>level:</label>
+        <input [(ngModel)]="levelFilter" type="number" min="1" max="5" />
+    </div>
+
+    <div class="l">
+        <label>CategoryCode: </label>
+        <select [(ngModel)]="categoryFilter">
+            <option *ngFor="let item of arrCategories" [value]="item.Code">{{item.Name}}</option>
+            <!-- <option [value]=""></option> -->
+        </select>
+    </div>
+
+    <div>
+        <input type="button" value="ok" (click)="filterArr()" />
+    </div>
+</div>
+
+<div>
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <app-small-recipe *ngFor="let item of arrFilter" [myRecipe]="item"></app-small-recipe>
+        </div>
+    </div>
+</div>
